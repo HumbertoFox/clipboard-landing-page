@@ -98,25 +98,25 @@ body main .div-main-center {
 body main .div-main-center > img {
     margin-left: -32px;
 }
-body main .div-main-center .div-center-rigth {
+body main .div-main-center .div-center-right {
     display: flex;
     flex-direction: column;
     gap: 56px;
     padding: 68px 0 0 110px;
 }
-body main .div-main-center .div-center-rigth div {
+body main .div-main-center .div-center-right div {
     display: flex;
     flex-direction: column;
     width: 350px;
     gap: 8px;
 }
-body main .div-main-center .div-center-rigth div h3 {
+body main .div-main-center .div-center-right div h3 {
     font-size: 24px;
     font-weight: 600;
     color: var(--Dark-Grayish-Blue);
     letter-spacing: -.4px;
 }
-body main .div-main-center .div-center-rigth div p {
+body main .div-main-center .div-center-right div p {
     font-size: 16px;
     font-weight: 400;
     color: var(--Grayish-Blue);
