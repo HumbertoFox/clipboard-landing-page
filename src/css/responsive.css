@@ -1,0 +1,170 @@
+@media(max-width: 1200px) {
+    body main {
+        width: 375px;
+        background: url(../images/bg-header-mobile.png) no-repeat;
+    }
+    body main img.img-main-primary {
+        margin-top: 123px;
+    }
+    body main h1 {
+        text-align: center;
+        width: 320px;
+        font-size: 33px;
+        font-weight: 600;
+        letter-spacing: -1px;
+        padding-top: 63px;
+    }
+    body main p.p-main-primary {
+        width: 315px;
+        font-size: 15px;
+        letter-spacing: .6px;
+        line-height: 26px;
+        padding-top: 16px;
+    }
+    body main .button {
+        flex-direction: column;
+        gap: 24px;
+        padding-top: 47px;
+    }
+    body main .button button {
+        width: 310px;
+    }
+    body main > h2 {
+        text-align: center;
+        font-size: 28px;
+    }
+    body main h2.h2-main-primary {
+        width: 320px;
+        letter-spacing: -.5px;
+        padding-top: 159px;
+    }
+    body main p.p-main-second {
+        width: 310px;
+        font-size: 15px;
+        letter-spacing: .59px;
+        line-height: 26px;
+        padding-top: 17px;
+    }
+    body main .div-main-center {
+        flex-direction: column;
+        align-items: center;
+        padding-top: 64px;
+    }
+    body main .div-main-center > img {
+        margin: 0;
+        width: 313px;
+    }
+    body main .div-main-center .div-center-rigth {
+        text-align: center;
+        width: 320px;
+        gap: 48px;
+        padding: 56px 0 0 0;
+    }
+    body main .div-main-center .div-center-rigth div {
+        width: 100%;
+        gap: 10px;
+    }
+    body main .div-main-center .div-center-rigth div p {
+        line-height: 26px;
+        padding: 0 10px;
+    }
+    body main h2.h2-main-second {
+        width: 320px;
+        letter-spacing: -.4px;
+        padding-top: 186px;
+        text-transform: capitalize;
+    }
+    body main p.p-main-third {
+        font-size: 16px;
+        width: 320px;
+        line-height: 26px;
+        padding-top: 16px;
+    }
+    body main img.img-main-second {
+        width: 350px;
+        padding-left: 3px;
+        padding-top: 60px;
+    }
+    body main h2.h2-main-third {
+        width: 320px;
+        letter-spacing: -.42px;
+        padding-top: 95px;
+    }
+    body main p.p-main-fourth {
+        width: 320px;
+        font-size: 16px;
+        line-height: 26px;
+        padding-top: 11px;
+    }
+    body main .div-main-info {
+        flex-direction: column;
+        padding-top: 94px;
+        gap: 56px;
+    }
+    body main .div-main-info .div-info {
+        width: 320px;
+    }
+    body main .div-main-info .div-info p {
+        line-height: 26px;
+        padding-top: 18px;
+    }
+    body main .div-icons {
+        flex-direction: column;
+        gap: 66px;
+        padding-top: 132px;
+    }
+    body main .div-icons div {
+        display: flex;
+    }
+    body main .div-icons .google img {
+        width: 140px;
+    }
+    body main .div-icons .ibm img {
+        width: 117px;
+    }
+    body main .div-icons .microsoft img {
+        width: 135px;
+    }
+    body main .div-icons .hp img {
+        width: 112px;
+    }
+    body main .div-icons .victor-graphics img {
+        width: 105px;
+        margin-top: -10px;
+    }
+    body main .h2-main-fourth {
+        width: 320px;
+        padding-top: 170px;
+        letter-spacing: -.5px;
+    }
+    body main p.p-main-fifth {
+        width: 311px;
+        font-size: 16px;
+        letter-spacing: .15px;
+        line-height: 26px;
+        padding-top: 16px;
+    }
+    body main footer {
+        flex-direction: column;
+        justify-content: start;
+        height: 500px;
+        margin-top: 170px;
+        padding: 52px 0 0 0;
+    }
+    body main footer nav {
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        gap: 27px;
+        margin: 45px 0 0 0;
+    }
+    body main footer nav ul {
+        gap: 27px;
+    }
+    body main footer nav ul:last-child {
+        margin: 0 0 50px 0;
+    }
+    body main footer .logos-social {
+        gap: 40px;
+    }
+}
