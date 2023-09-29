@@ -54,17 +54,17 @@
         margin: 0;
         width: 313px;
     }
-    body main .div-main-center .div-center-rigth {
+    body main .div-main-center .div-center-right {
         text-align: center;
         width: 320px;
         gap: 48px;
         padding: 56px 0 0 0;
     }
-    body main .div-main-center .div-center-rigth div {
+    body main .div-main-center .div-center-right div {
         width: 100%;
         gap: 10px;
     }
-    body main .div-main-center .div-center-rigth div p {
+    body main .div-main-center .div-center-right div p {
         line-height: 26px;
         padding: 0 10px;
     }
