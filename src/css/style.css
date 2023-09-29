@@ -240,7 +240,7 @@ body main footer .logos-social li a.a-icon {
     transition: .3s ease-in-out;
 }
 body main footer .logos-social li a.a-icon:hover {
-    color: hsl(171, 66%, 44%);
+    color: var(--Strong-Cyan);
 }
 body footer .attribution {
     font-size: 11px; text-align: center;

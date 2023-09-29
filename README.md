@@ -28,7 +28,7 @@ Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codif
     transition: .3s ease-in-out;
   }
   .logos-social li a.a-icon:hover {
-    color: hsl(171, 66%, 44%);
+    color: var(--Strong-Cyan);
   }
 ```
 
